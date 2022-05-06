@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on <a href="https://aws86.com/">aws86.com</a>
 - 📫 Reach me on IG: <a href="http://instagram.com/wahaboni">@wahaboni</a> 
 
+Using github to save my private repo too :)
+
 <!---
 wahaboni/wahaboni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
